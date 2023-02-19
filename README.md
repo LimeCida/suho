@@ -1,6 +1,4 @@
 # Suho (수호)
-Encrypt your thoughts and store them on cloud storage sites without compromising your privacy!
-<br/><br/>
 Ever wrote some epic bad ass ideas for a game, movie, novel or web comic?
 <br/>
 Does it suck when the computer you wrote it on gets thrown out the window?

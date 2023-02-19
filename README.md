@@ -1,4 +1,4 @@
-# suho
+# Suho
 Encrypt your thoughts and store them on cloud storage sites without compromising your privacy!
 
 Ever wrote some epic bad ass ideas for a game, movie, novel or web comic? 

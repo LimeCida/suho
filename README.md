@@ -8,7 +8,7 @@ Too anxious to upload them to a cloud storage site because "they own your IP"?
 
 
 
-Just yesterday as of uploading this I answered yes to all these questions.
+Just yesterday as of uploading this I answered yes to all these questions. Sure does suck when your laptop dies. I wished I could use google drive without the paranoia.
 <br/>
 So I lazily cobbled together this python script.
 <br/>

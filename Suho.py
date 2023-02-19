@@ -4,7 +4,6 @@ from cryptography.fernet import Fernet
 import base64, hashlib
 import sys
 from getpass import getpass
-#import links.txt
 
 """
 Hello!!! 
@@ -16,9 +15,6 @@ Feel free to modify my code and improve me in a way that suits you, thanks!
 
 -수호
 """
- 
-# total arguments
-n = len(sys.argv)
  
 class Suho():
 	def __init__(self, path, mode):
@@ -52,7 +48,7 @@ class Suho():
 		key = self.gen_fernet_key(bytepass)
 		fernet = Fernet(key)
 
-		#Below will be my result
+		#Below will be my result file
 		fileName = os.path.basename(self.path)
 
 		if self.encrypt:
